@@ -1,1 +1,1 @@
-# Avgword2vec-Implementation
+# SpamClassifier
